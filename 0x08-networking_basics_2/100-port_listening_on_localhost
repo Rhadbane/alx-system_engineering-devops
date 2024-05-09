@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Bsh script that listens on port 98 on localhost
+# Author: rhadbane
+
+nc -l 98
